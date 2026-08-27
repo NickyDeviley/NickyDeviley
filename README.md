@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, i'm Nicholas 👋
+
+    🎓 System Analysis and Development technologist
+    
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu_perfil](https://www.linkedin.com/in/nicholas-milanin-960233336/)
 
 <!--
 **NickyDeviley/NickyDeviley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
