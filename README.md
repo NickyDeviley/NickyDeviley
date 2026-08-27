@@ -52,7 +52,16 @@
 
 ### ⚡ Fun facts
 
-    I hate Python.
+- I Love C/C++.
+- I hate Python.
+- I can listen to and read English, but I'm very bad at speaking and writing... even though my pronunciation is good.
+- My favorite game is Ark Survival Evolved/Ascended 🦖.
+- Fedora is my favorite Linux distribution.
+- I have Thalassophobia
+
+### 🚀 Quest for 2026
+
+My goal is to enter 2027 as a solid C/C++ developer, having built a simple low-level game from scratch using only OpenGL and the Windows API (Win32), along with a working CHIP-8 emulator.
 
 <!--
 **NickyDeviley/NickyDeviley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
