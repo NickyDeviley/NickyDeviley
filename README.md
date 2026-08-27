@@ -1,5 +1,5 @@
 ## Hi, i'm Nicholas 👋
-## I'm a Brazilian Backend Developer ![Brasil](https://img.shields.io/badge/Brasil-009c3b?style=for-the-badge&logo=brazil&logoColor=FFDF00)
+## I'm a Brazilian Backend Developer
 
     🎓 System Analysis and Development technologist
     
