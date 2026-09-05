@@ -47,7 +47,7 @@
 | 🌐 | [workshop-springboot-jpa](https://github.com/NickyDeviley/workshop-springboot-jpa) | Web service application built with Spring Boot, JPA, and Hibernate for object-relational mapping. |
 | 🕹️ | [MotorJogoJAVA](https://github.com/NickyDeviley/MotorJogoJAVA) | 2D Game Engine developed from scratch in pure Java to understand game mechanics and rendering and apply SOLID and Design Patterns. |
 | 🗄️ | [Project-JDBC-DAO](https://github.com/NickyDeviley/Project-JDBC-DAO) | Java application demonstrating database connection and persistence using JDBC and the DAO pattern. |
-| 🐍 | [SnakeGame_Raylib](https://github.com/NickyDeviley/SnakeGame_Raylib) | Classic Snake Game developed in C++ using the Raylib library for graphic rendering and game logic. |
+| 🖥️ | [Chip8-Emulator_C](https://github.com/NickyDeviley/Chip8-Emulator_C.git) | A chip-8 emulator made in C with SDL2 to render the graphics. An implementation of a hardware in a programming language. |
 | 🏓 | [PongRayLibCPP](https://github.com/NickyDeviley/PongRayLibCPP) | Implementation of the classic Pong game in C++ using Raylib to practice game loop and collision physics. |
 
 ### ⚡ Fun facts
