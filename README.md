@@ -2,7 +2,7 @@
 
     🎓 System Analysis and Development technologist
     
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/seu_perfil](https://www.linkedin.com/in/nicholas-milanin-960233336/)])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/nicholas-milanin-960233336/)])
 
 ### Languages and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
