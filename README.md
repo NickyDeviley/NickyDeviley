@@ -2,12 +2,14 @@
 
     🎓 System Analysis and Development technologist
     
+    🎮 Game development and design enthusiast
+    
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-milanin-960233336/)
 
 ### Languages and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -18,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
 
@@ -26,9 +28,9 @@
 
 🇧🇷 Just a Brazilian who loves low-level programming.
 
-🎯 Current Goal: Focused on landing a job as a Java Developer.
+🎯 Current Goal: --------
 
-⚙️ In My Free Time: Vigorously studying C and C++ to learn how to build GAMES, ENGINES, EMULATORS, COMPILERS, and OPERATING SYSTEMS.
+⚙️ In My Free Time: Studying C and C++ to learn how to build GAMES, ENGINES, EMULATORS, COMPILERS, and OPERATING SYSTEMS.
 
 🛠️ Philosophy: Aiming to become a game developer who follows the "Handmade religion" — A-main! 🙏
 
@@ -36,9 +38,7 @@
 
 🚀 Current Projects:
 
-    🎮 'A Careta do Diabo' — A game project about a sadistic assassin investigating a traitor within her clan.
-
-    📖 'Sirilard: RPG' — Writing a book about four youths thrown into a dark medieval world where they must face death daily.
+    📖 'Sirilard: RPG' — My actual all focusing project, is a book and a game about the same universe.
 
 ### 🛠️ Featured Projects
 
@@ -61,19 +61,4 @@
 
 ### 🚀 Quest for 2026
 
-My goal is to enter 2027 as a solid C/C++ developer, having built a simple low-level game from scratch using only OpenGL and the Windows API (Win32), along with a working CHIP-8 emulator.
-
-<!--
-**NickyDeviley/NickyDeviley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to enter 2027 as a solid C/C++ developer, having built a simple low-level game from scratch using only OpenGL and the Windows API (Win32).
